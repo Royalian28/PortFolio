@@ -105,5 +105,5 @@ if (localStorage.getItem("theme") === "light_theme") {
 }
 
 document.getElementById("ButtonDownload").addEventListener("click",function(){
-  window.open("https://drive.google.com/file/d/1cSRQ4MpR770lBy67Tn7douvVCEEiEcdm/view?usp=drive_link");
+  window.open("https://drive.google.com/file/d/1nyEFiX8WnhJHXn-mZaNECBv2lwbhj8kh/view?usp=drive_link");
 });
